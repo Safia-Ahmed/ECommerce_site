@@ -101,6 +101,7 @@ nav a{
     border-radius: 10px;
     text-align: center;
     padding: 100px 0;
+    height: 300px;
 }
 .email_detail p{
     font-size: 18px;

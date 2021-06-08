@@ -1,0 +1,130 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    font-family: 'Poppins', sans-serif;
+}
+
+nav a{
+    font-size: 18px;
+    color: #707070;
+}
+
+.carousel{
+    margin: 50px 0;
+    
+
+}
+.carousel-item{
+    background-color: #feeae9;
+    border-radius: 10px;
+}
+
+.carousel-item{
+    padding: 20px 40px;
+}
+
+.carousel-item h1{
+     font-size: 41px;
+     color: #1f1f1f;
+}
+
+.carousel-item p{
+    font-size: 18px;
+    color: #707070;
+}
+
+.carousel-item .price{
+    color:rgb(255, 20, 110);
+}
+
+.buy-button{
+    padding: 5px 15px;
+    background: linear-gradient(45deg, #ff5297 ,rgb(255, 20, 110));
+    color:white;
+    border:2px solid transparent;
+    border-radius: 5px ;
+
+}
+.name{
+    padding: 50px 0;
+}
+
+.cat1{
+    background: linear-gradient(45deg, #ff9c35, #ffd019);
+}
+.cat2{
+    background: linear-gradient(45deg, #ff5196, #ff1973);
+}
+.cat3{
+    background: linear-gradient(45deg, #4289ff, #3f07f8);
+}
+.cat1,.cat2,.cat3{
+
+    padding: 15px;
+    border-radius: 10px ;
+
+}
+
+.shades{
+    background: #f8f8f8;
+
+}
+
+ .shoes{
+    margin-top: 50px;
+}
+
+.shoe-button{
+    padding: 5px 15px;
+    background: black;
+    color:white;
+    border:2px solid transparent;
+    border-radius: 5px ;
+}
+
+.shoe-body{
+    text-align: center;
+}
+
+
+.bags{
+   padding-bottom: 50px;
+   margin-bottom: 50px;
+}
+
+
+.email_detail{
+    background-color: #feeae9;
+    border-radius: 10px;
+    text-align: center;
+    padding: 100px 0;
+}
+.email_detail p{
+    font-size: 18px;
+    color: #707070;
+    margin: 20px 0;
+}
+.email_detail input{
+    padding: 5px 15px;
+        
+        border-radius: 5px ;
+}
+.send{
+    
+        padding: 5px 15px;
+        background: linear-gradient(45deg, #ff5297 ,rgb(255, 20, 110));
+        color:white;
+        border:2px solid transparent;
+        border-radius: 5px ;
+    
+
+}
+
+footer{
+    margin-top: 10px;
+    text-align: center;
+    font-size: 14px;
+}

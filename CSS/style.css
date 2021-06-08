@@ -100,7 +100,7 @@ nav a{
     background-color: #feeae9;
     border-radius: 10px;
     text-align: center;
-    padding: 100px 0;
+    padding: 50px 0;
     height: 300px;
 }
 .email_detail p{
@@ -109,7 +109,7 @@ nav a{
     margin: 20px 0;
 }
 .email_detail input{
-    padding: 5px 15px;
+    padding: 5px 5px;
         
         border-radius: 5px ;
 }
